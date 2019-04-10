@@ -1,0 +1,1 @@
+Seste cviceni Python
